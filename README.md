@@ -37,7 +37,7 @@ No external libraries needed. Only built-in modules are used:
 ## 📦 Instalation
 1. Clone the Repository
 ```bash
-git clone https://github.com/DevManoj96/Python-File_Organizer.git
+git clone https://github.com/VoinFeix/Python-File_Organizer.git
 cd Python-File_Organizer
 ```
 
